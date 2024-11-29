@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://tori-bemide.github.io/meet-the-team/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/Tori-Bemide/meet-the-team">
       Solution
     </a>
     <span> | </span>
@@ -55,5 +55,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- X [X.com](https://x.com/TBemide)
+- X [@Tori Bemide](https://x.com/TBemide)
 - GitHub [@Tori Bemide](https://github.com/Tori-Bemide)
